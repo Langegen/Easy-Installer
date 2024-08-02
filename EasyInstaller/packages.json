@@ -5,9 +5,9 @@
         "file-1-url": "https://raw.githubusercontent.com/ppkantorski/Ultrahand-Overlay/main/examples/Broomstick/config.ini"
     },
     {
-        "name": "Cool Curves - latest",
-        "label": "Cool Curves",
-        "file-1-url": "https://raw.githubusercontent.com/ppkantorski/Ultrahand-Overlay/main/examples/Cool%20Curves/config.ini"
+        "name": "KipTool",
+        "label": "KipTool",
+        "file-1-url": "https://github.com/kawaii-flesh/KipTool/releases/download/v7.2.3-25/KipTool.bin"
     },
     {
         "name": "Easy Installer - latest",
